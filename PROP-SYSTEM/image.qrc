@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../image/signup-across.png</file>
+        <file>../../image/username.png</file>
+        <file>../../image/password.png</file>
+        <file>../../image/welcome.png</file>
+        <file>../../image/CSDC.PNG</file>
+        <file>../../image/china-logo.png</file>
+    </qresource>
+</RCC>
